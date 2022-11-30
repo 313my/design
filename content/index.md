@@ -3,10 +3,10 @@ Title: Home
 Description: This is our index page.
 ---
 
-Home page
+Min hemsida
 ==========================
 
-The source for this page is in `content/index.md`.
+Hej! 
+Jag heter Younis och är 35 år, ser fram att lära mig mer om design på denna kurs!
 
-This is a sample home page written in markdown with some frontmatter defined.
 
